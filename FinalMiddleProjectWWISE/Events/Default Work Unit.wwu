@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" SchemaVersion="110">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="MainMenuMusic_Play" ID="{A8736435-E8E5-4A55-BA80-E9651039AF8B}">
+					<ChildrenList>
+						<Action Name="" ID="{555BDED4-8FD1-4074-8F42-1D358A2A8306}" ShortID="498737587">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MainMenuScene" ID="{387C195E-B378-4AF5-AFCF-89B65F88689F}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GameSceneMusic_Play" ID="{88C31EC7-0E9A-43D8-B603-AB1EF0F3CB2A}">
+					<ChildrenList>
+						<Action Name="" ID="{20BA148E-F3C5-44B6-A73F-D086CDBEE12D}" ShortID="927230508">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BattleScene" ID="{924DC05A-5919-4AAD-A151-944E7D8F81A4}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PlayerStep" ID="{8E806B15-EAED-4CC1-9F2A-DC22815C157A}">
+					<ChildrenList>
+						<Action Name="" ID="{BE1B9345-42BA-4832-861D-E999C012362C}" ShortID="793468399">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PlayerStep" ID="{CF59EF6E-4CC2-4F73-B2F2-F87D1F0A39D3}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player3Shot" ID="{9DD51FDA-23CA-4FD5-B25F-1BBBADF65DDE}">
+					<ChildrenList>
+						<Action Name="" ID="{A7A87830-001B-4E9D-9D60-878EAD16FD61}" ShortID="522568622">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RevolverShot" ID="{72836D47-808C-4495-BC82-D5E893B334BD}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player3Reload" ID="{27114630-7E2E-439F-8B76-9A5880F20D7F}">
+					<ChildrenList>
+						<Action Name="" ID="{F2B41064-EDAE-4616-9F0A-FFB964264263}" ShortID="354276327">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RevolverReload" ID="{179B7D59-6C2E-425C-B705-270B660FB39F}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GameSceneMusic1_Play" ID="{D04C02BC-7E8C-42D0-9278-FF89697CCB97}">
+					<ChildrenList>
+						<Action Name="" ID="{C547A02B-5C44-4A07-8163-539CDB2540C4}" ShortID="1058871166">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BattleScene1" ID="{2A94BA8D-C634-4DC8-8A6E-6332A5E81239}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player1Shot" ID="{3D49EF0C-0225-419E-95AD-E817096B93F6}">
+					<ChildrenList>
+						<Action Name="" ID="{3255AA84-4249-49CC-A127-5BCE2B02F9EC}" ShortID="382377222">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ShotgunShot" ID="{6E9B47D3-91F4-4B41-8657-96F9D7276730}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player2Shot" ID="{B94EFACB-10D5-4B04-9DC9-35E03BA3129B}">
+					<ChildrenList>
+						<Action Name="" ID="{D1159514-378F-4867-B309-E132E8A34CC4}" ShortID="867074054">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SubMachineGunShot" ID="{3FB79977-9FBE-4A0D-824D-CC4E3F661AA2}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player1Reload" ID="{46DE7A01-BF66-428F-8111-13DC43A39806}">
+					<ChildrenList>
+						<Action Name="" ID="{C48F5D94-238D-439D-A4CA-AA29C93BFBF7}" ShortID="942389631">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ShotGunReload" ID="{AFD11999-DCC1-4155-B6BA-C199AE6EE9D8}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player2Reload" ID="{7FB74FFC-11B9-42C2-B078-1A8B83445326}">
+					<ChildrenList>
+						<Action Name="" ID="{94984716-FAF1-4FB7-A2A1-03702F9570FD}" ShortID="475307831">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SubmachinegunReload" ID="{A9DA2423-1B9A-4EBA-A180-4613B9594C1E}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BonusPickUp" ID="{40786414-6516-4727-9602-3C4301FEBBBD}">
+					<ChildrenList>
+						<Action Name="" ID="{2A815A1F-9FF4-4389-95CD-E523CCF9A9D2}" ShortID="1056472979">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BonusPickup" ID="{3369990F-4330-413E-8C18-AF7F3466A272}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DroneMove" ID="{9AF6F748-4A17-4814-90B6-2A991BE89AF9}">
+					<ChildrenList>
+						<Action Name="" ID="{9329F03B-B082-4E8E-96A9-E11885658DEF}" ShortID="530531757">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{C086F12C-5023-41D2-A08E-5BFD5B1EFBE3}"/>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DroneMove" ID="{1BA765B0-ADF8-4C88-BC0B-A656940C3C65}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="RoboCorpMove" ID="{D305BF05-4747-428E-B962-D153230C1EC3}">
+					<ChildrenList>
+						<Action Name="" ID="{77755FB4-06D0-49C2-85D3-482746513F86}" ShortID="450244110">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RobocorpMove" ID="{5C0D7B0C-0040-4575-B552-72ADFED5076F}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="RoboCorpDestroyed" ID="{B0C07B29-1060-4983-83A0-FFAAC6F74FCF}">
+					<ChildrenList>
+						<Action Name="" ID="{66BD3814-4793-4D0F-8CA8-6E07C16BA311}" ShortID="676835681">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RobocorpDestroyed" ID="{C7D38681-BEF7-456B-BA23-1DA6FBDABF35}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="UIClick" ID="{D9644F01-3368-4404-BDF8-4F272E8C950B}">
+					<ChildrenList>
+						<Action Name="" ID="{A21C1EBF-F4D5-4658-8745-B9B016506C7C}" ShortID="135924779">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Click" ID="{E39190C7-6DD4-4F6A-AE4D-84913A2A1E5B}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="MaleVoice" ID="{12912A46-B5B8-43B4-BF21-BBD0ACE3CC69}">
+					<ChildrenList>
+						<Action Name="" ID="{EB7FE953-E010-456E-84BD-FE909ABDADCB}" ShortID="971877173">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player1GetDamage" ID="{DD79ACFD-BD25-4212-837A-49C346B9B92D}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="FemaleVoice" ID="{50B89525-8C8B-432B-A0AD-BE41B0E67B38}">
+					<ChildrenList>
+						<Action Name="" ID="{AB246DEE-B638-46CC-B552-23ACD5DCCD9B}" ShortID="632319006">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player2GetDamage" ID="{AC908144-1C61-4234-9893-7FFC94244804}" WorkUnitID="{1F9A0F17-DF6D-47CB-B9B0-B92A229E262C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

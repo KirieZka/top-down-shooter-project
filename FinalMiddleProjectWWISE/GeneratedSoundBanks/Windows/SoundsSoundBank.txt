@@ -1,0 +1,29 @@
+Event	ID	Name			Wwise Object Path	Notes
+	152240274	RoboCorpDestroyed			\Default Work Unit\RoboCorpDestroyed	
+	171833754	Player3Reload			\Default Work Unit\Player3Reload	
+	213898111	Player1Shot			\Default Work Unit\Player1Shot	
+	412471812	PlayerStep			\Default Work Unit\PlayerStep	
+	500922029	Player3Shot			\Default Work Unit\Player3Shot	
+	1201438234	RoboCorpMove			\Default Work Unit\RoboCorpMove	
+	1586126643	Player2Reload			\Default Work Unit\Player2Reload	
+	2394119052	Player2Shot			\Default Work Unit\Player2Shot	
+	3104432082	BonusPickUp			\Default Work Unit\BonusPickUp	
+	3826685070	DroneMove			\Default Work Unit\DroneMove	
+	4213314316	Player1Reload			\Default Work Unit\Player1Reload	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3873835272	soundVolume			\Default Work Unit\soundVolume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	150528010	ShotGunReload	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\shotgun-movements_zkpxbcv__D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\ShotGunReload		96864
+	159115591	DroneMove	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\383852__simeonradivoev__mini-quadcopter-flying-loop_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\DroneMove		532576
+	171695535	PlayerStep	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\76187__movingplaid__concrete_step_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerStep		27032
+	202678246	RobocorpMove	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\55846__sergenious__robo_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\RobocorpMove		44958
+	256762048	SubMachineGunShot	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\machine-gun-vickers-four-shots-close-perspective_zj1e5ne__10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SubMachineGunShot		387168
+	288401202	BonusPickup	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\253172__suntemple__retro-bonus-pickup-sfx_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BonusPickup		30416
+	443205376	ShotgunShot	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\473846__matrixxx__shotgun-shot-03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ShotgunShot		352896
+	645900632	RobocorpDestroyed	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\321107__nsstudios__robot-or-machine-destroy_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\RobocorpDestroyed		854624
+	701208421	RevolverReload	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\177863__dredile__clean-revolver-reload_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\RevolverReload		299330
+	755973978	SubmachinegunReload	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\677160__sertonin__uzi-submachine-gun-being-reloaded-while-empty_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\SubmachinegunReload		352598
+	994014264	RevolverShot	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\645316__darkshroom__snub_nose_357_magnum_noisegate-1780_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\RevolverShot		57440
+

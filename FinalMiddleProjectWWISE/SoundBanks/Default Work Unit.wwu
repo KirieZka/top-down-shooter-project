@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8C9871AE-E666-4932-BA83-A75E8ED56D7C}" SchemaVersion="110">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{8C9871AE-E666-4932-BA83-A75E8ED56D7C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="MusicSoundBank" ID="{AEA1A157-A844-447E-AD0D-2077945977CD}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GameSceneMusic1_Play" ID="{D04C02BC-7E8C-42D0-9278-FF89697CCB97}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GameSceneMusic_Play" ID="{88C31EC7-0E9A-43D8-B603-AB1EF0F3CB2A}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MainMenuMusic_Play" ID="{A8736435-E8E5-4A55-BA80-E9651039AF8B}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="SoundsSoundBank" ID="{A54CB012-A6CC-4F99-8C13-506776084C9F}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player1Shot" ID="{3D49EF0C-0225-419E-95AD-E817096B93F6}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RoboCorpMove" ID="{D305BF05-4747-428E-B962-D153230C1EC3}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player1Reload" ID="{46DE7A01-BF66-428F-8111-13DC43A39806}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player2Reload" ID="{7FB74FFC-11B9-42C2-B078-1A8B83445326}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player3Reload" ID="{27114630-7E2E-439F-8B76-9A5880F20D7F}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BonusPickUp" ID="{40786414-6516-4727-9602-3C4301FEBBBD}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="DroneMove" ID="{9AF6F748-4A17-4814-90B6-2A991BE89AF9}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RoboCorpDestroyed" ID="{B0C07B29-1060-4983-83A0-FFAAC6F74FCF}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player2Shot" ID="{B94EFACB-10D5-4B04-9DC9-35E03BA3129B}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PlayerStep" ID="{8E806B15-EAED-4CC1-9F2A-DC22815C157A}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player3Shot" ID="{9DD51FDA-23CA-4FD5-B25F-1BBBADF65DDE}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="UISoundBank" ID="{14144C4B-4156-470C-BBD6-FD30E6144CEF}">
+					<ObjectInclusionList>
+						<ObjectRef Name="UIClick" ID="{D9644F01-3368-4404-BDF8-4F272E8C950B}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="VoiceSoundBank" ID="{9300581D-9352-4999-B092-35743488CC69}">
+					<ObjectInclusionList>
+						<ObjectRef Name="FemaleVoice" ID="{50B89525-8C8B-432B-A0AD-BE41B0E67B38}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MaleVoice" ID="{12912A46-B5B8-43B4-BF21-BBD0ACE3CC69}" WorkUnitID="{F162CB42-C2D1-4588-B7B3-0B4AC7DCB347}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

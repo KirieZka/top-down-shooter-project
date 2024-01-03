@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{66834572-B8EA-99A4-7528-A01A4873C5C2}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+			<GameParameters>
+				<GameParameter Id="822163944" Name="SS_Air_RPM"/>
+				<GameParameter Id="1029930033" Name="SS_Air_Fury"/>
+				<GameParameter Id="1351367891" Name="SS_Air_Fear"/>
+				<GameParameter Id="2648548617" Name="SS_Air_Month"/>
+				<GameParameter Id="3002758120" Name="SS_Air_Freefall"/>
+				<GameParameter Id="3074696722" Name="SS_Air_Size"/>
+				<GameParameter Id="3203397129" Name="SS_Air_TimeOfDay"/>
+				<GameParameter Id="3715662592" Name="SS_Air_Storm"/>
+				<GameParameter Id="3847924954" Name="SS_Air_Presence"/>
+				<GameParameter Id="4160247818" Name="SS_Air_Turbulence"/>
+			</GameParameters>
+			<AcousticTextures>
+				<AcousticTexture Id="504532776" Name="Brick">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="12"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="18"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="23"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="513139656" Name="Mountain">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="841620460" Name="Concrete">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="6"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="14"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1755085759" Name="Wood_Deep">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="1"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="8"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="20"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1873957695" Name="Anechoic">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="1970351858" Name="Fabric">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="3"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="13"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="48"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="72"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2058049674" Name="Wood">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="32"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="25"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="20"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="35"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2412606308" Name="Carpet">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="46"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="45"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="76"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2637588553" Name="Tile">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="67"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="41"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="12"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="0"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="2928161104" Name="Curtains">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="7"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="60"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="0"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="84"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="3195498748" Name="Cork_Tiles">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="14"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="30"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="73"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="3670307564" Name="Drywall">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="2"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="2"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="4168643977" Name="Acoustic_Banner">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="37"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="100"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="100"/>
+					</Properties>
+				</AcousticTexture>
+				<AcousticTexture Id="4262522749" Name="Wood_Bright">
+					<Properties>
+						<Property Name="AbsorptionLow" Type="Real32" Value="32"/>
+						<Property Name="AbsorptionMidLow" Type="Real32" Value="25"/>
+						<Property Name="AbsorptionMidHigh" Type="Real32" Value="10"/>
+						<Property Name="AbsorptionHigh" Type="Real32" Value="9"/>
+					</Properties>
+				</AcousticTexture>
+			</AcousticTextures>
+		</SoundBank>
+		<SoundBank Id="3337922254" Type="User" Language="SFX" Hash="{130C00C4-816D-53B5-8F0E-53905BA7680F}">
+			<ShortName>UISoundBank</ShortName>
+			<Path>UISoundBank.bnk</Path>
+			<Media>
+				<File Id="1052171481" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>506052__mellau__button-click-3.wav</ShortName>
+					<CachePath>SFX/506052__mellau__button-click-3_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3164408517" Name="UIClick" DurationType="OneShot" DurationMin="1" DurationMax="1">
+					<MediaRefs>
+						<MediaRef Id="1052171481"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3427827313" Type="User" Language="SFX" Hash="{B89E513D-6AFD-C22C-CB03-F1C17103A59A}">
+			<ShortName>MusicSoundBank</ShortName>
+			<Path>MusicSoundBank.bnk</Path>
+			<Media>
+				<File Id="261850679" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BattleScene1.wav</ShortName>
+					<CachePath>SFX/BattleScene1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="462777325" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>BattleScene.wav</ShortName>
+					<CachePath>SFX/BattleScene_10C4C929.wem</CachePath>
+				</File>
+				<File Id="968164838" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MainMenuScene.wav</ShortName>
+					<CachePath>SFX/MainMenuScene_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2056665576" Name="GameSceneMusic1_Play" DurationType="OneShot" DurationMin="39.74286" DurationMax="39.74286">
+					<MediaRefs>
+						<MediaRef Id="261850679"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2451935347" Name="GameSceneMusic_Play" DurationType="OneShot" DurationMin="168.51128" DurationMax="168.51128">
+					<MediaRefs>
+						<MediaRef Id="462777325"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="741156897" Name="MainMenuMusic_Play" DurationType="OneShot" DurationMin="55.14449" DurationMax="55.14449">
+					<MediaRefs>
+						<MediaRef Id="968164838"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3663999232" Type="User" Language="SFX" Hash="{BBA034B7-A4A9-06D8-EBC5-E089A04ED66E}">
+			<ShortName>SoundsSoundBank</ShortName>
+			<Path>SoundsSoundBank.bnk</Path>
+			<Media>
+				<File Id="150528010" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>shotgun-movements_zkpxbcv_.wav</ShortName>
+					<CachePath>SFX/shotgun-movements_zkpxbcv__D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="159115591" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>383852__simeonradivoev__mini-quadcopter-flying-loop.wav</ShortName>
+					<CachePath>SFX/383852__simeonradivoev__mini-quadcopter-flying-loop_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="171695535" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>76187__movingplaid__concrete_step_1.wav</ShortName>
+					<CachePath>SFX/76187__movingplaid__concrete_step_1_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="202678246" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>55846__sergenious__robo.wav</ShortName>
+					<CachePath>SFX/55846__sergenious__robo_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="256762048" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>machine-gun-vickers-four-shots-close-perspective_zj1e5ne_.wav</ShortName>
+					<CachePath>SFX/machine-gun-vickers-four-shots-close-perspective_zj1e5ne__10C4C929.wem</CachePath>
+				</File>
+				<File Id="288401202" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>253172__suntemple__retro-bonus-pickup-sfx.wav</ShortName>
+					<CachePath>SFX/253172__suntemple__retro-bonus-pickup-sfx_10C4C929.wem</CachePath>
+				</File>
+				<File Id="443205376" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>473846__matrixxx__shotgun-shot-03.wav</ShortName>
+					<CachePath>SFX/473846__matrixxx__shotgun-shot-03_10C4C929.wem</CachePath>
+				</File>
+				<File Id="645900632" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>321107__nsstudios__robot-or-machine-destroy.wav</ShortName>
+					<CachePath>SFX/321107__nsstudios__robot-or-machine-destroy_10C4C929.wem</CachePath>
+				</File>
+				<File Id="701208421" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>177863__dredile__clean-revolver-reload.wav</ShortName>
+					<CachePath>SFX/177863__dredile__clean-revolver-reload_10C4C929.wem</CachePath>
+				</File>
+				<File Id="755973978" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>677160__sertonin__uzi-submachine-gun-being-reloaded-while-empty.wav</ShortName>
+					<CachePath>SFX/677160__sertonin__uzi-submachine-gun-being-reloaded-while-empty_10C4C929.wem</CachePath>
+				</File>
+				<File Id="994014264" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>645316__darkshroom__snub_nose_357_magnum_noisegate-1780.wav</ShortName>
+					<CachePath>SFX/645316__darkshroom__snub_nose_357_magnum_noisegate-1780_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3104432082" Name="BonusPickUp" DurationType="OneShot" DurationMin="0.3437642" DurationMax="0.3437642">
+					<MediaRefs>
+						<MediaRef Id="288401202"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3826685070" Name="DroneMove" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="159115591"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4213314316" Name="Player1Reload" DurationType="OneShot" DurationMin="4.3885713" DurationMax="4.3885713">
+					<MediaRefs>
+						<MediaRef Id="150528010"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="213898111" Name="Player1Shot" DurationType="OneShot" DurationMin="2" DurationMax="2">
+					<MediaRefs>
+						<MediaRef Id="443205376"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1586126643" Name="Player2Reload" DurationType="OneShot" DurationMin="3.3607447" DurationMax="3.3607447">
+					<MediaRefs>
+						<MediaRef Id="755973978"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2394119052" Name="Player2Shot" DurationType="OneShot" DurationMin="1.7416056" DurationMax="1.7416056">
+					<MediaRefs>
+						<MediaRef Id="256762048"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="171833754" Name="Player3Reload" DurationType="OneShot" DurationMin="3.3926756" DurationMax="3.3926756">
+					<MediaRefs>
+						<MediaRef Id="701208421"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="500922029" Name="Player3Shot" DurationType="OneShot" DurationMin="0.32507935" DurationMax="0.32507935">
+					<MediaRefs>
+						<MediaRef Id="994014264"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="412471812" Name="PlayerStep" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="171695535"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="152240274" Name="RoboCorpDestroyed" DurationType="OneShot" DurationMin="4.844263" DurationMax="4.844263">
+					<MediaRefs>
+						<MediaRef Id="645900632"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1201438234" Name="RoboCorpMove" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="202678246"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{DBC022B8-E2D8-8DF1-F5A5-B0C1DE0340EF}</FileHash>
+</SoundBanksInfo>

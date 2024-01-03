@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3164408517	UIClick			\Default Work Unit\UIClick	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3873835272	soundVolume			\Default Work Unit\soundVolume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1052171481	Click	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\506052__mellau__button-click-3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Click		176496
+

@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	741156897	MainMenuMusic_Play			\Default Work Unit\MainMenuMusic_Play	
+	2056665576	GameSceneMusic1_Play			\Default Work Unit\GameSceneMusic1_Play	
+	2451935347	GameSceneMusic_Play			\Default Work Unit\GameSceneMusic_Play	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2346531308	musicVolume			\Default Work Unit\musicVolume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	261850679	BattleScene1	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\BattleScene1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BattleScene1		7133280
+	462777325	BattleScene	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\BattleScene_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BattleScene		29214816
+	968164838	MainMenuScene	D:\WWISE\FinalMiddleProject\.cache\Windows\SFX\MainMenuScene_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MainMenuScene		9727584
+

@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	32431393	FemaleVoice			\Default Work Unit\FemaleVoice	
+	326623764	MaleVoice			\Default Work Unit\MaleVoice	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3873835272	soundVolume			\Default Work Unit\soundVolume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	47910622	Player1GetDamage	D:\WWISE\FinalMiddleProject\.cache\Windows\Voices\English(US)\649543__ajanhallinta__ouch_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player1GetDamage		19908
+	465107995	Player2GetDamage	D:\WWISE\FinalMiddleProject\.cache\Windows\Voices\English(US)\437650__dersuperanton__getting-hit-damage-scream_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player2GetDamage		63584
+
